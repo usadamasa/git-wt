@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.20.0](https://github.com/usadamasa/git-wt/commits/v0.20.0) - 2026-02-13
+
 ## [v0.20.0](https://github.com/k1LoW/git-wt/compare/v0.19.1...v0.20.0) - 2026-02-09
 ### New Features 🎉
 - feat: add `--json` flag to output worktree list in JSON format by @k1LoW in https://github.com/k1LoW/git-wt/pull/124
