@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.22.0](https://github.com/usadamasa/git-wt/compare/v0.21.1...v0.22.0) - 2026-02-16
+### Other Changes
+- fix: MainRepoRoot() and unify bare detection with git-dir/git-common-dir by @usadamasa in https://github.com/usadamasa/git-wt/pull/4
+
 ## [v0.22.0](https://github.com/k1LoW/git-wt/compare/v0.21.1...v0.22.0) - 2026-02-16
 ### New Features 🎉
 - feat: support list command in bare repositories by @usadamasa in https://github.com/k1LoW/git-wt/pull/140
