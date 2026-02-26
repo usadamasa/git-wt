@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.25.1](https://github.com/usadamasa/git-wt/compare/v0.25.0...v0.25.1) - 2026-02-26
+
 ## [v0.25.0](https://github.com/k1LoW/git-wt/compare/v0.24.0...v0.25.0) - 2026-02-19
 ### New Features 🎉
 - feat: support delete operation in bare repositories by @usadamasa in https://github.com/k1LoW/git-wt/pull/150
